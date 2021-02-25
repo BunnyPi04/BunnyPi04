@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm a developer girl 	(｡•̀ᴗ-)✧</h1>
 <h3 align="center">Backend developer | Frontend developer</h3>
-<img alt="Night Coding" src="https://scontent.fpnh22-1.fna.fbcdn.net/v/t1.0-9/56564628_2072370349542377_2660031730706022400_o.jpg?_nc_cat=105&ccb=3&_nc_sid=e3f864&_nc_ohc=GGH2ca0ArGcAX8zTaC0&_nc_ht=scontent.fpnh22-1.fna&oh=858c79bb4a8199a9870e8e1d4181861a&oe=605E63A1" align="right"/>
-
-
-
+<p align="center">
+	<img alt="background image" src="assets/raichu.gif" align="right"/>
+</p>
 
 <p align="left"> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=BunnyPi04&repo=bunny_pi&countColor=%23f07167" alt="Bunny Pi" /> </p>
 <img align="right" width=260px alt="Pikachu" src="https://scontent.fpnh22-1.fna.fbcdn.net/v/t1.0-9/86730427_2665376556908417_8868888002001108992_o.jpg?_nc_cat=111&ccb=3&_nc_sid=09cbfe&_nc_ohc=z60hCE8-mswAX9nXsPZ&_nc_ht=scontent.fpnh22-1.fna&oh=6dd691ac427e77b2335f3fec6f34d593&oe=605C90FF" />
