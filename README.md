@@ -9,15 +9,15 @@
 
 <img src="https://static.wixstatic.com/media/392ab3_e2853f9e90144d188a130c9f53c5cb94~mv2.gif/v1/fit/w_292,h_292,al_c,q_80/file.webp" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ My main developing language is **PHP** with **Laravel framework**<br>
-✔ Now I'm learning about **Wordpress**<br>
-✔ I’m also learning **VueJS** & **NodeJS**<br>
-✔ I’m love learning about **pure CSS** and **minimize using JS**<br>
-✔ I’m looking for help for learning **ThreeJS**<br>
-✔ And **CSS animation**<br>
-✔ I have some skills with **Adobe Illustrator (AI)** and adobe **After effect (AE)**<br>
-✔ And obviuosly, I'm interested in Pikachu ϞϞ(๑⚈ ․̫ ⚈๑)<br>
-✔ And also, I'm a cat lover (｡>︿<｡) <br>
+🐾 My main developing language is **PHP** with **Laravel framework**<br>
+🐾 Now I'm learning about **Wordpress**<br>
+🐾 I’m also learning **VueJS** & **NodeJS**<br>
+🐾 I’m love learning about **pure CSS** and **minimize using JS**<br>
+🐾 I’m looking for help for learning **ThreeJS**<br>
+🐾 And **CSS animation**<br>
+🐾 I have some skills with **Adobe Illustrator (AI)** and adobe **After effect (AE)**<br>
+🐾 And obviuosly, I'm interested in Pikachu ϞϞ(๑⚈ ․̫ ⚈๑)<br>
+🐾 And also, I'm a cat lover (｡>︿<｡) <br>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
