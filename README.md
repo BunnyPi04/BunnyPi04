@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm a developer girl 	(｡•̀ᴗ-)✧</h1>
 <h3 align="center">Backend developer | Frontend developer</h3>
 <p align="center">
-	<img alt="background image" src="assets/raichu.gif" align="right"/>
+	<img alt="background image" src="assets/raichu.gif" align="center"/>
 </p>
 
 <p align="left"> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=BunnyPi04&repo=bunny_pi&countColor=%23f07167" alt="Bunny Pi" /> </p>
